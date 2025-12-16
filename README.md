@@ -1,9 +1,4 @@
 <h1 align="center">💻 AI Chatbot</h1>
-<p align="center">
-  <img src="https://img.shields.io/github/stars/robindekoster/ChatGPT-Custom-Knowledge-Chatbot?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/robindekoster/ChatGPT-Custom-Knowledge-Chatbot?style=social" alt="Forks">
-</p>
-
 Welcome to the AI Chatbot! This project uses the OpenAI GPT-3.5 model to build a chatbot that can answer questions based on a custom knowledge base.
 
 
