@@ -14,7 +14,7 @@ To get started with this project, follow these steps:
 
 ## 🤖 Technologies Used
 
-This project uses the following technologies:
+This project uses the following technologies: 
 
 - [OpenAI API](https://openai.com/)
 - [Llama Index](https://pypi.org/project/llama-index/)
